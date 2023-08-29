@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@300&family=Inconsolata&family=Roboto:ital,wght@1,300&display=swap");
+
+body {
+  font-family: "Gluten", sans-serif;
+}
+
+.container {
+  display: flex;
+  padding: 50px;
+}
+
+.leftMenu {
+  flex: 1;
+}
+
+.search {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid rgb(80, 120, 230);
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 30px;
+  color: #555;
+  font-weight: 300;
+}
+
+.cats {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  color: rgb(21, 21, 184);
+}
+
+.cat {
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 5px;
+}
+
+.content {
+  flex: 4;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.product {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 30px;
+}
+
+img {
+  width: 150px;
+  height: 250px;
+  object-fit: contain;
+}
+
+.name {
+  font-weight: 300;
+}
+
+.priceText {
+  font-size: 20px;
+  color: rgb(14, 14, 134);
+}
+
+::placeholder {
+  font-family: "Gluten", sans-serif;
+}
+
+.logo {
+  width: 150px;
+  height: 200px;
+  margin-left: 30px;
+}
