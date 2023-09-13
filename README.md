@@ -1,7 +1,7 @@
 # PRODUCT FİLTER
 
 
-> **Live Link:** [https://rad-speculoos-c6146a.netlify.app/](https://rad-speculoos-c6146a.netlify.app/)
+> **Live Link:**
 
 ### **On the start screen, all products are available with their names and prices.** ![][img1]
 
@@ -27,7 +27,7 @@
 
 > ### Project Link
 >
-> [**https://rad-speculoos-c6146a.netlify.app/**][projectLink]
+>
 
 ## Contact
 
